@@ -1,0 +1,420 @@
+
+BRIEFCASE ICON WITH link
+<div class="pi-col-md-3 pi-col-xs-6 pi-padding-bottom-30">
+    <div class="pi-icon-box-vertical pi-text-center">
+        <div class="pi-icon-box-icon pi-icon-box-icon-dark"><i class="icon-briefcase"></i></div>
+        <h6 class="pi-margin-bottom-20 pi-weight-700 pi-uppercase pi-letter-spacing">Careers</h6>
+        <p>We are Hiring:
+            <br><a href="#">Open positions</a>
+        </p>
+    </div>
+</div>
+
+
+
+
+
+BUTTON
+
+<p class="pi-text-center">
+	<a href="#" class="btn pi-btn pi-btn-dark pi-btn-no-border pi-btn-big">
+		View all work
+	</a>
+</p>
+
+
+
+<!-- - - - - - - - - - WAVY BG SECTION - CONTENT LEFT - COMPUTER RIGHT - - - - - - - - - -->
+	
+<div class="pi-section-w pi-section-grey pi-border-top">
+	<div class="pi-texture" style="background: url(img/wave.png) repeat;"></div>
+	<div class="pi-section pi-padding-bottom-20">
+		
+		<!-- Row -->
+		<div class="pi-row">
+			
+			<!-- Col 6 -->
+			<div class="pi-col-sm-6 pi-padding-bottom-40">
+			
+				<h4 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-has-bg pi-margin-bottom-20">
+					Similique Sunt
+				</h4>
+				
+				<p class="pi-weight-600 pi-text-dark">
+					Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet
+				</p>
+
+				<ul class="pi-list-with-icons pi-list-icons-ok pi-margin-bottom-30">
+					<li>At vero eos et accusamus et iusto odio dignissimos ducimus</li>
+					<li>Nam libero tempore, cum soluta nobis est eligendi optio cumque</li>
+					<li>Temporibus autem quibusdam et aut officiis debitis aut rerum</li>
+					<li>Officiis debitis aut rerum necessitatibus saepe quibusdam</li>
+				</ul>
+				
+				<p>
+					<a href="#" class="btn pi-btn pi-btn-base pi-btn-big">
+						Purchase Aura
+					</a>
+				</p>
+				
+			</div>
+			<!-- End col 6 -->
+			
+			<!-- Col 6 -->
+			<div class="pi-col-sm-6 pi-padding-bottom-40">
+			
+				<div class="pi-img-w pi-no-padding-bottom">
+					<img src="img_external/gallery/apple-devices-2.png" alt="" />
+				</div>
+				
+			</div>
+			<!-- End col 6 -->
+			
+		</div>
+		<!-- End row -->
+				
+	</div>
+</div>
+
+<!-- - - - - - - - - - END SECTION - - - - - - - - - -->
+
+
+
+<!-- - - - - - - - - - RECENT NEWS / POST SECTION - - - - - - - - - -->
+	
+<div class="pi-section-w pi-section-white pi-border-top">
+	<div class="pi-section pi-padding-bottom-20">
+		
+		<!-- Row -->
+		<div class="pi-row">
+			
+			<!-- Col 6 -->
+			<div class="pi-col-sm-6 pi-margin-bottom-30">
+				
+				<h4 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-has-bg pi-margin-bottom-30">
+					<a href="#" class="pi-link-dark">Recent News</a>
+				</h4>
+			
+				<div class="pi-news-date">
+					29
+					<span>Apr</span>
+				</div>
+				<h2 class="h5 pi-margin-top-minus-5 pi-margin-bottom-5">
+					<a href="#" class="pi-link-dark">Nalibero Tempore Soluta Nobis</a>
+				</h2>
+				<ul class="pi-meta pi-margin-bottom-10">
+					<li><i class="icon-clock"></i>Apr 25, 2014</li>
+					<li><i class="icon-user"></i>by <a href="#">PiStudio</a></li>
+					<li><i class="icon-comment"></i><a href="#">2 comments</a></li>
+				</ul>
+				<p>
+					Ut enim ad minima veniam numquam eius modi tempora incidunt ut labore dolore magnam quis nostrum exercitationem ullam corporis suscipit ut aliquid commodi... <a href="#" class="pi-italic">Read more</a>
+				</p>
+				
+				<hr class="pi-divider pi-divider-dashed">
+				
+				<div class="pi-news-date">
+					25
+					<span>Apr</span>
+				</div>
+				<h2 class="h5 pi-margin-top-minus-5 pi-margin-bottom-5">
+					<a href="#" class="pi-link-dark">Maiores Consequatur Aut Perferendis</a>
+				</h2>
+				<ul class="pi-meta pi-margin-bottom-10">
+					<li><i class="icon-user"></i>by <a href="#">PiStudio</a></li>
+					<li><i class="icon-comment"></i><a href="#">3 comments</a></li>
+				</ul>
+				<p>
+					Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore provident, similique cum soluta nobis est eligendi optio cumque nihil  exercitationem ullam... <a href="#" class="pi-italic">Read more</a>
+				</p>
+				
+			</div>
+			<!-- End col 6 -->
+			
+			<!-- Col 6 -->
+			<div class="pi-col-sm-6 pi-padding-bottom-30">
+			
+				<h4 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-has-bg pi-margin-bottom-30">
+					<a href="#" class="pi-link-dark">Recent Posts</a>
+				</h4>
+				
+				<!-- Post item -->
+				<div class="pi-img-w pi-img-round-corners pi-img-left pi-img-shadow" style="width: 170px;">
+					<a href="#">
+					<img src="img_external/gallery/bread-and-spikes.jpg" alt="">
+					<span class="pi-img-overlay pi-img-overlay-white">
+					</span>
+					</a>
+				</div>
+				
+				<h2 class="h5 pi-margin-top-minus-5 pi-margin-bottom-5">
+					<a href="#" class="pi-link-dark">Ullam Corporis Suscipit</a>
+				</h2>
+				<ul class="pi-meta pi-margin-bottom-10">
+					<li><i class="icon-clock"></i>Apr 29, 2014</li>
+					<li><i class="icon-comment"></i><a href="#">2 comments</a></li>
+				</ul>
+				<p>
+					Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit ut aliquid commodi... <a href="#" class="pi-italic">Read more</a>
+				</p>
+				<!-- End post item -->
+				
+				<hr class="pi-divider pi-divider-dashed">
+				
+				<!-- Post item -->
+				<div class="pi-img-w pi-img-round-corners pi-img-left pi-img-shadow" style="width: 170px;">
+					<a href="#">
+					<img src="img_external/gallery/sailing.jpg" alt="">
+					<span class="pi-img-overlay pi-img-overlay-white">
+					</span>
+					</a>
+				</div>
+				
+				<h2 class="h5 pi-margin-top-minus-5 pi-margin-bottom-5">
+					<a href="#" class="pi-link-dark">Corporis Suscipit Laboriosam</a>
+				</h2>
+				
+				<ul class="pi-meta pi-margin-bottom-10">
+					<li><i class="icon-clock"></i>Apr 25, 2014</li>
+					<li><i class="icon-comment"></i>0 comments</li>
+				</ul>
+				<p>
+					Corporis suscipit laboriosam nisi ut aliquid commodi ut enim ad minima veniam exercitationem ullam... <a href="#" class="pi-italic">Read more</a>
+				</p>
+				<!-- End post item -->
+				
+			</div>
+			<!-- End col 6 -->
+			
+		</div>
+		<!-- End row -->
+				
+	</div>
+</div>
+
+<!-- - - - - - - - - - END SECTION - - - - - - - - - -->
+
+
+
+
+
+<!-- - - - - - - - - - SUBSCRIBE SECTION - - - - - - - - - -->
+<div class="pi-section-w pi-shadow-inside-top pi-section-grey">
+	<div class="pi-texture" style="background: url(img/wave.png) repeat;"></div>
+	<div class="pi-section">
+		
+		<div class="pi-text-center">
+			<h3 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-has-border pi-has-tall-border pi-has-short-border">
+				Subscribe
+			</h3>
+		</div>
+		
+		<p class="lead-16 pi-text-center">
+			Excepteur sint occaecat cupidatat non proident, sunt in culpa
+		</p>
+		
+		<!-- Forms -->
+		<form class="pi-search-form-wide pi-subscribe-form ng-pristine ng-valid pi-text-center pi-margin-bottom-20" role="form" action="handlers/mailchimp/formSubscribe.php" >
+			<div class="pi-error-container"></div>
+			<div class="pi-input-inline" style="margin-right: 10px; width: 360px;">
+				<input type="text" class="form-control form-control-email input-lg pi-input-wide" id="exampleInputSubscribe" name="exampleInputSubscribe" placeholder="Enter email address">
+			</div>
+			<button type="submit" class="btn pi-btn-base pi-btn-big">Submit</button>
+		</form>
+		<!-- End forms -->
+		
+		<p class="pi-smaller-text pi-text-center">
+			We hereby promise to be responsible emailers.
+		</p>
+
+	</div>
+</div>
+<!-- - - - - - - - - - END SECTION - - - - - - - - - -->
+
+
+
+
+<!-- - - - - - - - - - What Clients Say SECTION - - - - - - - - - -->
+
+<div class="pi-section-w pi-shadow-inside pi-section-grey">
+	<div class="pi-texture" style="background: url(img/wave.png) repeat;"></div>
+	<div class="pi-section pi-padding-bottom-30">
+	
+		<div class="pi-text-center">
+			<h3 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-has-border pi-has-tall-border pi-has-short-border">
+				What Clients Say
+			</h3>
+		</div>
+		
+		<p class="lead-16 pi-margin-bottom-50 pi-text-center">
+			Excepteur sint occaecat cupidatat non proident <br>sunt in culpa qui officia deserunt.
+		</p>
+		
+		<!-- Row -->
+		<div class="pi-row">
+			
+			<!-- Col 4 -->
+			<div class="pi-col-sm-4">
+				
+				<div class="pi-testimonial pi-testimonial-author-with-photo pi-margin-bottom-40">
+					<div class="pi-testimonial-content pi-testimonial-content-big pi-testimonial-content-quotes pi-testimonial-white">
+						<p>Vel illum qui dolorem eum fugiat quo voluptas nulla pariatur porro quisquam.</p>
+					</div>
+					<div class="pi-testimonial-author pi-clearfix">
+						<span class="pi-testimonial-author-photo pi-img-round"><img src="img_external/testimonials/client-photo-4.jpg" alt=""></span>
+						<div>
+							<h6 class="pi-weight-700 pi-no-margin-bottom">Brian Kochar</h6>
+							<p class="pi-italic pi-no-margin-bottom">Project Manager <a href="#">Company LTD</a></p>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+			<!-- End col 4 -->
+			
+			<!-- Col 4 -->
+			<div class="pi-col-sm-4">
+				
+				<div class="pi-testimonial pi-testimonial-author-with-photo pi-margin-bottom-40">
+					<div class="pi-testimonial-content pi-testimonial-content-big pi-testimonial-content-quotes pi-testimonial-white">
+						<p>Reprehenderit qui in ea voluptate velit esse quam nihil molestiae quatur.</p>
+					</div>
+					<div class="pi-testimonial-author pi-clearfix">
+						<span class="pi-testimonial-author-photo pi-img-round"><img src="img_external/testimonials/client-photo-3.jpg" alt=""></span>
+						<div>
+							<h6 class="pi-weight-700 pi-no-margin-bottom">Nora Anderson</h6>
+							<p class="pi-italic pi-no-margin-bottom">Client Manager <a href="#">Company LTD</a></p>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+			<!-- End col 4 -->
+			
+			<!-- Col 4 -->
+			<div class="pi-col-sm-4">
+				
+				<div class="pi-testimonial pi-testimonial-author-with-photo pi-margin-bottom-40">
+					<div class="pi-testimonial-content pi-testimonial-content-big pi-testimonial-content-quotes pi-testimonial-white">
+						<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam.</p>
+					</div>
+					<div class="pi-testimonial-author pi-clearfix">
+						<span class="pi-testimonial-author-photo pi-img-round"><img src="img_external/testimonials/client-photo-1.jpg" alt=""></span>
+						<div>
+							<h6 class="pi-weight-700 pi-no-margin-bottom">Nathan Anderson</h6>
+							<p class="pi-italic pi-no-margin-bottom">Senior Engineer <a href="#">Company LTD</a></p>
+						</div>
+					</div>
+				</div>
+		
+			</div>
+			<!-- End col 4 -->
+			
+		</div>
+		<!-- End row -->
+		
+	</div>
+</div>
+
+<!-- - - - - - - - - - END SECTION - - - - - - - - - -->
+
+
+
+
+<!-- - - - - - - - - - Happy Clients SECTION - - - - - - - - - -->
+
+<div class="pi-section-w pi-section-parallax piTooltips" style="background-image: url(img_external/gallery/blonde-cafe.jpg);">
+	<div class="pi-texture" style="background: rgba(24, 28, 32, 0.7);"></div>
+	<div class="pi-section pi-padding-bottom-50">
+	
+		<div class="pi-text-center">
+			<h3 class="pi-weight-700 pi-uppercase pi-letter-spacing pi-has-border pi-has-tall-border pi-has-short-border">
+				Happy Clients
+			</h3>
+		</div>
+		
+		<p class="lead-16 pi-margin-bottom-50 pi-text-center">
+			Excepteur sint occaecat cupidatat non proident, <br>sunt in culpa qui officia deserunt.
+		</p>
+		
+		<!-- Logos gallery -->
+		<div class="pi-row pi-liquid-col-2xs-2 pi-liquid-col-sm-6 pi-gallery pi-gallery-small-margins pi-column-fix">
+
+			<!-- Logo -->
+			<div class="pi-gallery-item">
+				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Diesel">
+					<a href="#">
+					<span class="pi-img-opacity-70">
+						<img src="img_external/clients/diesel-4.png" alt="">
+					</span>
+					</a>
+				</div>
+			</div>
+			<!-- End logo -->
+			
+			<!-- Logo -->
+			<div class="pi-gallery-item">
+				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Google">
+					<a href="#">
+					<span class="pi-img-opacity-70">
+						<img src="img_external/clients/google-4.png" alt="">
+					</span>
+					</a>
+				</div>
+			</div>
+			<!-- End logo -->
+			
+			<!-- Logo -->
+			<div class="pi-gallery-item">
+				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Sony">
+					<a href="#">
+					<span class="pi-img-opacity-70">
+						<img src="img_external/clients/sony-4.png" alt="">
+					</span>
+					</a>
+				</div>
+			</div>
+			<!-- End logo -->
+			
+			<!-- Logo -->
+			<div class="pi-gallery-item">
+				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Virgin">
+					<a href="#">
+					<span class="pi-img-opacity-70">
+						<img src="img_external/clients/virgin-4.png" alt="">
+					</span>
+					</a>
+				</div>
+			</div>
+			<!-- End logo -->
+			
+			<!-- Logo -->
+			<div class="pi-gallery-item">
+				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Instagram">
+					<a href="#">
+					<span class="pi-img-opacity-70">
+						<img src="img_external/clients/instagram-4.png" alt="">
+					</span>
+					</a>
+				</div>
+			</div>
+			<!-- End logo -->
+			
+			<!-- Logo -->
+			<div class="pi-gallery-item">
+				<div class="pi-img-w pi-tooltip" data-placement="top" title="" data-original-title="Yelp">
+					<a href="#">
+					<span class="pi-img-opacity-70">
+						<img src="img_external/clients/yelp-4.png" alt="">
+					</span>
+					</a>
+				</div>
+			</div>
+			<!-- End logo -->
+
+		</div>
+		<!-- End logos gallery -->
+
+	</div>
+</div>
+<!-- - - - - - - - - - END SECTION - - - - - - - - - -->

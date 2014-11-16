@@ -28,7 +28,7 @@ jQuery(function($) {
 					t: $el.offset().top,
 					x: $el.data('parallaxX') || '50%',
 					y: $el.data('parallaxY') || 0,
-					s: $el.data('parallaxSpeed') || 0.5,
+					s: $el.data('parallaxSpeed') || 0.2,
 					h: getHeight($el, ($el.data('parallaxOuterHeight') || 1))
 				};
 

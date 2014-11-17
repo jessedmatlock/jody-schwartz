@@ -3211,7 +3211,7 @@ hr {
 }
 @media screen and (min-width: 1120px) {
   .pi-section-parallax {
-/*    background-attachment: fixed;*/
+    background-attachment: fixed;
   }
 }
 @media (max-width: 992px) {

@@ -2,7 +2,7 @@ jQuery(function($){
 
 	//region Parallax
 	if($.fn.parallax){
-		$('.pi-section-parallax').parallax();
+		$('.pi-section-parallax').parallax('50%', 0.2);
 	}
 	//endregion
 	

@@ -3187,7 +3187,7 @@ hr {
 .pi-section-parallax {
   background-size: cover;
   background-repeat: repeat-y;
-  background-position: 50% 0%;
+  background-position: 0% 50%;
   -webkit-transition: none;
   -moz-transition: none;
   -ms-transition: none;
